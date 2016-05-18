@@ -1,0 +1,6 @@
+[package]
+name = "interpact"
+version = "0.1.0"
+authors = ["Abhinandan <nmabhinandan@gmail.com>"]
+
+[dependencies]
